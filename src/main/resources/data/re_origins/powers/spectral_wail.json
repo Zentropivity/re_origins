@@ -57,7 +57,7 @@
 		"type": "origins:action_over_time",
 		"rising_action": {
 			"type": "origins:execute_command",
-			"command": "function originstweaks:wail",
+			"command": "function re_origins:wail",
 			"permission_level": 4
 		},
 		"interval": 20,

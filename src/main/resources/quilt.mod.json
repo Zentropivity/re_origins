@@ -19,7 +19,7 @@
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"init": "com.example.re_origins.ReOrigins"
+			"init": "com.zentropivity.re_origins.ReOrigins"
 		},
 		"depends": [
 			{
