@@ -25,7 +25,7 @@ Tweaks the base Origins to make them more fun. This is a Quilt mod.
 
 ## License
 
-This repository is licensed under the [MIT license](./LICENSE-MIT.md).
+This repository is licensed under the [MIT license](./LICENSE-MIT).
 
 ## Acknowledgements
 
