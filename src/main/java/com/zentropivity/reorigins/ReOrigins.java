@@ -1,4 +1,4 @@
-package com.zentropivity.re_origins;
+package com.zentropivity.reorigins;
 
 import org.quiltmc.loader.api.ModContainer;
 import org.quiltmc.qsl.base.api.entrypoint.ModInitializer;

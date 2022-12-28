@@ -1,7 +1,8 @@
-# Re Origins
+# ReOrigins
 
-Tweaks to the Origins mod base origins. This is a Quilt mod.  
-[Datapack version](https://github.com/Zentropivity/re_origins_data)
+Tweaks the base Origins to make them more fun. This is a Quilt mod.
+
+[Datapack version can be found here](https://github.com/Zentropivity/reorigins_data)
 
 ## Changes
 
@@ -28,4 +29,4 @@ This repository is licensed under the [MIT license](./LICENSE-MIT.md).
 
 ## Acknowledgements
 
-This mod is based on [OriginsTweaks](https://modrinth.com/mod/originstweaks) (MIT)
+This mod is based on the great [OriginsTweaks](https://modrinth.com/mod/originstweaks) (MIT)

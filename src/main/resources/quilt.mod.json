@@ -2,24 +2,24 @@
 	"schema_version": 1,
 	"quilt_loader": {
 		"group": "com.zentropivity",
-		"id": "re_origins",
+		"id": "reorigins",
 		"version": "${version}",
 		"metadata": {
-			"name": "Re Origins",
-			"description": "Tweaks Origins base origins to make them more fun.",
+			"name": "ReOrigins",
+			"description": "Tweaks the base Origins to make them more fun.",
 			"contributors": {
 				"Zentropivity": "Owner"
 			},
 			"contact": {
-				"homepage": "https://modrinth.com/mod/re_origins",
-				"sources": "https://github.com/Zentropivity/re_origins",
-				"datapack": "https://github.com/Zentropivity/re_origins_data"
+				"homepage": "https://modrinth.com/mod/reorigins",
+				"sources": "https://github.com/Zentropivity/reorigins",
+				"datapack": "https://github.com/Zentropivity/reorigins_data"
 			},
-			"icon": "assets/re_origins/icon.png"
+			"icon": "assets/reorigins/icon.png"
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"init": "com.zentropivity.re_origins.ReOrigins"
+			"init": "com.zentropivity.reorigins.ReOrigins"
 		},
 		"depends": [
 			{

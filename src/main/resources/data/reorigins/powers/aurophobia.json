@@ -52,7 +52,7 @@
         "conditions": [
           {
             "type": "origins:in_tag",
-            "tag": "re_origins:golden_blocks"
+            "tag": "reorigins:golden_blocks"
           }
         ]
       },
@@ -67,7 +67,7 @@
     "item_condition": {
       "type": "origins:ingredient",
       "ingredient": {
-        "tag": "re_origins:golden_food"
+        "tag": "reorigins:golden_food"
       }
     }
   },
@@ -81,7 +81,7 @@
         "item_condition": {
           "type": "origins:ingredient",
           "ingredient": {
-            "tag": "re_origins:golden_tools"
+            "tag": "reorigins:golden_tools"
           }
         }
       }
@@ -96,25 +96,25 @@
     "head": {
       "type": "origins:ingredient",
       "ingredient": {
-        "tag": "re_origins:golden_armor"
+        "tag": "reorigins:golden_armor"
       }
     },
     "chest": {
       "type": "origins:ingredient",
       "ingredient": {
-        "tag": "re_origins:golden_armor"
+        "tag": "reorigins:golden_armor"
       }
     },
     "legs": {
       "type": "origins:ingredient",
       "ingredient": {
-        "tag": "re_origins:golden_armor"
+        "tag": "reorigins:golden_armor"
       }
     },
     "feet": {
       "type": "origins:ingredient",
       "ingredient": {
-        "tag": "re_origins:golden_armor"
+        "tag": "reorigins:golden_armor"
       }
     },
     "tick_rate": 20

@@ -4,7 +4,7 @@
   "item_condition": {
     "type": "origins:ingredient",
     "ingredient": {
-      "tag": "re_origins:feline_food"
+      "tag": "reorigins:feline_food"
     }
   },
   "food_modifier": {
