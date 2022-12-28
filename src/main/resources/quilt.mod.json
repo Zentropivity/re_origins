@@ -1,25 +1,25 @@
 {
 	"schema_version": 1,
 	"quilt_loader": {
-		"group": "com.example",
-		"id": "example_mod",
+		"group": "com.zentropivity",
+		"id": "re_origins",
 		"version": "${version}",
 		"metadata": {
-			"name": "Mod Name",
-			"description": "A short description of your mod.",
+			"name": "Re Origins",
+			"description": "Tweaks Origins base origins to make them more fun.",
 			"contributors": {
-				"Your name here": "Owner"
+				"Zentropivity": "Owner"
 			},
 			"contact": {
-				"homepage": "https://example.com/",
-				"issues": "https://github.com/QuiltMC/quilt-template-mod/issues",
-				"sources": "https://github.com/QuiltMC/quilt-template-mod"
+				"homepage": "https://modrinth.com/mod/re_origins",
+				"sources": "https://github.com/Zentropivity/re_origins",
+				"datapack": "https://github.com/Zentropivity/re_origins_data"
 			},
-			"icon": "assets/example_mod/icon.png"
+			"icon": "assets/re_origins/icon.png"
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"init": "com.example.example_mod.ExampleMod"
+			"init": "com.example.re_origins.ReOrigins"
 		},
 		"depends": [
 			{
@@ -33,8 +33,15 @@
 			{
 				"id": "minecraft",
 				"versions": ">=1.19.2"
+			},
+			{
+				"id": "origins",
+				"versions": ">=1.7.1"
+			},
+			{
+				"id": "pehkui",
+				"versions": ">=3.6.1"
 			}
 		]
-	},
-	"mixin": "example_mod.mixins.json"
+	}
 }
